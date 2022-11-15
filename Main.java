@@ -1,3 +1,4 @@
+//It is a solution for google kick start round G 2022( Walktober problem).
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
